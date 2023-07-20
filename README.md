@@ -1,3 +1,3 @@
 # GlowEffect
 
-##The letters change color animation HTML & CSS
+## The letters change color animation HTML & CSS
